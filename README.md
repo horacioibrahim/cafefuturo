@@ -20,7 +20,7 @@ interativa e em rede sobre o futuro e trazer para a realidade as propecções
 e inferências de forma que elas saiam do espéctro do futuro e se tornem realidades.
 
 Todos os temas em pauta do **Café Futuro** são propostos com um forte interesse nas 
-possibilidade de execução no Governo sejam as ideias subversivas ou não. Não estamos aqui
+possibilidades de execução no Governo sejam as ideias subversivas ou não. Não estamos aqui
 adaptando o futuro ao Governo, mas estimulando a adaptabilidade do mesmo para o futuro. 
 
 A legião do Café Futuro começa agora!
