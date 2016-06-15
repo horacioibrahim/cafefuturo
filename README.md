@@ -21,7 +21,7 @@ e inferências de forma que elas saiam do espéctro do futuro e se tornem realid
 
 Todos os temas em pauta do **Café Futuro** são propostos com um forte interesse nas 
 possibilidades de execução no Governo sejam as ideias subversivas ou não. Não estamos aqui
-adaptando o futuro ao Governo, mas estimulando a adaptabilidade do mesmo para o futuro. 
+adaptando o futuro ao Governo, mas intencionalmente criando a adaptabilidade do mesmo para o futuro. 
 
 A legião do Café Futuro começa agora!
 
