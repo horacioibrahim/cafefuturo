@@ -14,8 +14,8 @@ com diversos objetivos comuns.
 
 O movimento
 ------
-É o movimento para o aprendizado comunitário contínuo, neste presente, onde todos 
-nós estamos competindo e cooperando para sobreviver. O objetivo é refletir de forma
+Café Futuro tem no cerne a intenção de realizar o aprendizado comunitário contínuo, neste presente,
+onde todos nós estamos competindo e cooperando para sobreviver. O objetivo é refletir de forma
 interativa e em rede sobre o futuro e trazer para a realidade as propecções
 e inferências de forma que elas saiam do espéctro do futuro e se tornem realidades.
 
