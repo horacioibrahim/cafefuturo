@@ -3,12 +3,17 @@
 É mais fácil ser o *expert* do passado que imprimir o futuro. Como você se sai para 
 responder perguntas como **"por que você não fez?"**. Muitas vezes nos pegamos criticando algo, 
 mas sem qualquer ação. É claro que entre você realizar uma mudança e executá-la propriamente 
-há uma grande distância. Não precisamos executar tarefas iguais. O que importa aqui é a **intenção**.
+há uma grande distância. Não precisamos executar tarefas iguais, as divisões de trabalho já existem ;)
+Os *experts* não são a regra, por isso, o que importa aqui é a **intenção** quais ações, 
+quais proposições, qual a intervenção que podemos fazer sobre a crítica? 
 
-Em grupo, uma sociedade, uma organização sempre irão existir as diferenças e os conflitos. As
-discussões sem paixões permitirá o encontro de **propósitos compartilhados**. Os quais nos 
-levará a um futuro que criamos.
+Em um grupo, uma sociedade, uma organização sempre irão existir as diferenças e os conflitos. 
+Para criarmos o futuro que desejamos precisamos de muita conectividade e interação. Temos que
+sair dos conflitos apaixonados para **conflitos criativos** que permitirá o encontro de
+**propósitos compartilhados**, os quais nos levará a um futuro que criamos.
 
+O movimento
+------
 É o movimento para o aprendizado comunitário contínuo, neste presente, onde todos 
 nós estamos competindo e cooperando para sobreviver. O objetivo é refletir de forma
 interativa e em rede sobre o futuro e trazer para a realidade as propecções
