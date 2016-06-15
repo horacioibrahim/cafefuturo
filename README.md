@@ -1,5 +1,14 @@
 # Café Futuro - A reflexão coletiva de um futuro em beta.
 
+É mais fácil ser o *expert* do passado que imprimir o futuro. Como você se sai para 
+responder perguntas como **"por que você não fez?"**. Muitas vezes nos pegamos criticando algo, 
+mas sem qualquer ação. É claro que entre você realizar uma mudança e executá-la propriamente 
+há uma grande distância. Não precisamos executar tarefas iguais. O que importa aqui é a **intenção**.
+
+Em grupo, uma sociedade, uma organização sempre irão existir as diferenças e os conflitos. As
+discussões sem paixões permitirá o encontro de **propósitos compartilhados**. Os quais nos 
+levará a um futuro que criamos.
+
 É o movimento para o aprendizado comunitário contínuo, neste presente, onde todos 
 nós estamos competindo e cooperando para sobreviver. O objetivo é refletir de forma
 interativa e em rede sobre o futuro e trazer para a realidade as propecções
