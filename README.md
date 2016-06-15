@@ -3,7 +3,7 @@
 É mais fácil ser o *expert* do passado que imprimir o futuro. Como você se sai para 
 responder perguntas como **"por que você não fez?"**. Muitas vezes nos pegamos criticando algo, 
 mas sem qualquer ação. É claro que entre você realizar uma mudança e executá-la propriamente 
-há uma grande distância. O que estamos falando é sobre a **intenção** quais ações, 
+há uma grande distância. O que estamos falando é sobre a **intenção**. Quais ações, 
 quais proposições, qual a intervenção que podemos fazer sobre a crítica? 
 
 Em um grupo, uma sociedade, uma organização sempre irão existir as diferenças e os conflitos. 
