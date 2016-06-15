@@ -9,7 +9,8 @@ quais proposições, qual a intervenção que podemos fazer sobre a crítica?
 Em um grupo, uma sociedade, uma organização sempre irão existir as diferenças e os conflitos. 
 Para criarmos o futuro que desejamos precisamos de muita conectividade e interação. Temos que
 sair dos conflitos apaixonados para **conflitos criativos** que permitirá o encontro de
-**propósitos compartilhados**, os quais nos levará a um futuro que criamos.
+**propósitos compartilhados**, os quais nos levará a um futuro que não está acabado, porém
+com diversos objetivos comuns.
 
 O movimento
 ------
