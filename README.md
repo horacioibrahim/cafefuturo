@@ -1,6 +1,6 @@
 # Café Futuro - A reflexão coletiva de um futuro em beta.
 
-É mais fácil ser o *expert* do passado que imprimir o futuro. Como você se sai para 
+É mais fácil ser o *expert* do passado que inferir no futuro. Como você se sai para 
 responder perguntas como **"por que você não fez?"**. Muitas vezes nos pegamos criticando algo, 
 mas sem qualquer ação. É claro que entre você realizar uma mudança e executá-la propriamente 
 há uma grande distância. O que estamos falando é sobre a **intenção**. Quais ações, 
