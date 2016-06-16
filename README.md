@@ -1,20 +1,20 @@
 # Café Futuro - A reflexão coletiva de um futuro em beta.
 
-É mais fácil ser o *expert* do passado que inferir no futuro. Como você se sai para 
+É mais fácil ser o *expert* do passado que inferir no futuro. Como nos saímos ao 
 responder perguntas como **"por que você não fez?"**. Muitas vezes nos pegamos criticando algo, 
-mas sem qualquer ação. É claro que entre você realizar uma mudança e executá-la propriamente 
+mas sem qualquer ação. É claro que entre a realização de uma mudança e execução propriamente 
 há uma grande distância. O que estamos falando é sobre a **intenção**. Quais ações, 
 quais proposições, qual a intervenção que podemos fazer sobre a crítica? 
 
 Em um grupo, uma sociedade, uma organização sempre irão existir as diferenças e os conflitos. 
-Para criarmos o futuro que desejamos precisamos de muita conectividade e interação. Temos que
+Para criarmos o futuro que desejamos precisamos de muita conectividade e interação intensa. Temos que
 sair dos conflitos apaixonados para **conflitos criativos** que permitirá o encontro de
 **propósitos compartilhados**, os quais nos levará a um futuro que não está acabado, porém
 com diversos objetivos comuns.
 
 O movimento
 ------
-Café Futuro tem no cerne a intenção de realizar o aprendizado comunitário contínuo, neste presente,
+O Café Futuro tem no cerne a intenção de realizar o aprendizado comunitário contínuo, neste presente,
 onde todos nós estamos competindo e cooperando para sobreviver. O objetivo é refletir de forma
 interativa e em rede sobre o futuro e trazer para a realidade as propecções
 e inferências de forma que elas saiam do espéctro do futuro e se tornem realidades.
