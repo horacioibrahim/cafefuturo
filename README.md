@@ -6,7 +6,7 @@ mas sem qualquer ação. Estamos falando é sobre **intenção**. Quais ações,
 quais proposições, qual a intervenção que podemos fazer sobre a futura crítica de algo do passado? 
 
 Em um grupo, uma sociedade, uma organização sempre irão existir as diferenças e os conflitos. Dessas
-discussões saem ações que se transformarão em passado ou um futuro que nunca virou presente.
+discussões saem ações que se transformarão em passado ou serão mero futuro que nunca virou presente.
 Para criarmos o futuro que desejamos precisamos de muita conectividade e interação intensa. Temos que
 sair dos conflitos apaixonados para **conflitos criativos** que permitirá o encontro de
 **propósitos compartilhados**, os quais nos levará a um futuro que não está acabado, porém
