@@ -1,0 +1,31 @@
+{
+  "name": "Café Futuro",
+  "authors": [
+    "Horacio Ibrahim <horacioibrahim@gmail.com>"
+  ],
+  "description": "Cafe Futuro",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "team",
+    "communication",
+    "ideias",
+    "insights"
+  ],
+  "license": "MIT",
+  "homepage": "cafefuturo.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "skeleton": "^2.0.4",
+    "jquery": "^3.0.0"
+  }
+}
