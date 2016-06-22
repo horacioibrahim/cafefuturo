@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- basics needs -->
+    <meta charset="utf-8">
+    <title>Bhono - Broadcast Host of Network Objects</title>
+    <meta name="description" content="Engajamento entre nós da rede. Tudo são nós!">
+    <meta name="author" content="Horacio Ibrahim horacio.moreira at serpro.gov.br">
+    <!-- Mobile specs -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Font specs: change for your style as roboto -->
+    <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro:400,300,700' rel='stylesheet' type='text/css'>
+    <!-- CSS -->
+    <link rel="stylesheet" href="vendor/skeleton/css/normalize.css">
+    <link rel="stylesheet" href="vendor/skeleton/css/skeleton.css">
+    <link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/custom.css">
+    <!-- JS -->
+    <script type="text/javascript" src="vendor/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="vendor/typed.js/dist/typed.min.js"></script>
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="../img/favicon.png">
+    <script>
+      $(function(){
+          $(".element").typed({
+            strings: ["inferir", "entender", "criar"],
+            typeSpeed: 70,
+            backSpeed: 40
+          });
+      });
+    </script>
+</head>
+<body onload="anaoRenderer();" onresize="anaoRenderer();">    
+<div class="header-scroll">
+    <div class="container">
+        <div class="row">
+            <div class="twelve columns">
+                <div id="logo">
+                    <span class="img-tall"><img src="img/cafe_futuro_w.svg"></span>
+                    <span class="img-small"><img src="img/cafe_futuro_w_non-label.svg"></span>
+                </div>
+                <!-- typing -->
+                <div class="hero-text">
+                    <span>reflexões coletivas para</span>
+                    <span class="element"></span>
+                    <span class="end-text">o futuro</span>
+                </div>
+                <!-- typing end -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /header -->
+<div class="secret-text">
+ouça e compartilhe essa ideia!<br/>
+<small>nem sempre é produto, nem sempre é palpável, mas é uma combinação de sabores para produzir <strong>ação</strong>
+</small>
+</div>
+<div class="container">
+    <div class="posts-items">
+        <div class="post-item">
+            <div class="post-header" style="background: url(img/media_post_1.png);">
+                <div class="smooth-title">&nbsp;</div>
+                <h5>Dididi bumbumbum vamos ver se quebra</h5>
+            </div>
+            <div class="headline">contém café expresso p/ despertar</div>
+        </div>
+        <div class="post-item">
+            <div class="post-header">
+                <div class="smooth-title">&nbsp;</div>
+                <h5>Dididi bumbumbum vamos ver se quebra</h5>
+            </div>
+            <div class="headline">contém café expresso p/ despertar</div>
+        </div>
+        <div class="post-item">
+            <div class="post-header">
+                <div class="smooth-title">&nbsp;</div>
+                <h5>Dididi bumbumbum vamos ver se quebra</h5>
+            </div>
+            <div class="headline">contém café expresso p/ despertar</div>
+        </div>  
+        <div class="post-item">
+            <div class="post-header">
+                <div class="smooth-title">&nbsp;</div>
+                <h5>Dididi bumbumbum vamos ver se quebra</h5>
+            </div>
+            <div class="headline">contém café expresso p/ despertar</div>
+        </div>          
+    </div>
+</div>
+
+    
+<button id="btn-menu"><i class="fa fa-chevron-left"></i></button>
+<div id="menubarright" class="menubar closed shadow">
+  <div class="boxswipe">
+    <div class="title">
+        <h5>Cardápio</h5>
+        <div class="place-btn">
+            <button class="btn-title" onclick="">
+                <i class="fa fa-chevron-right"></i>
+            </button>
+        </div>
+    </div>
+    <div class="menu-items">
+        <ul>
+            <li>
+                <div class="menu-item">Café Manifesto</div>
+                <div class="description">contém café expresso p/ despertar</div>
+            </li>
+            <li>
+                <div class="menu-item">Café Junto &amp; Misturado</div>
+                <div class="description">pessoas e ideias, adoçado com ações</div>
+            </li>
+            <li>
+                <div class="menu-item">Café Torrado &amp; Moído</div>
+                <div class="description">podcasts que já rolaram</div>
+            </li>
+            <li>
+                <div class="menu-item">Café Kopi Luwak</div>
+                <div class="description">simples ideias em oportunidades</div>
+            </li>
+        </ul>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" src="js/app.js"></script>
+</body>
+    
+<script>
+$(window).scroll(function () {
+     var sc = $(window).scrollTop()
+     var counter = 0;
+     console.log(sc);
+    if (sc > 280) {
+        $(".header-scroll").addClass("small");
+    } else {
+        counter += 1;
+    }
+    console.log(counter);
+    if (sc < 10){
+        $(".header-scroll").removeClass("small");
+    }
+});
+    
+</script>
+</html>

@@ -1,0 +1,22 @@
+{
+  "name": "cafefuturo",
+  "version": "1.0.0",
+  "description": "cafefuturo",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "keywords": [
+    "cafe",
+    "futuro"
+  ],
+  "author": "horacio ibrahim",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-image": "^2.0.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-uglify": "^1.5.3"
+  }
+}
