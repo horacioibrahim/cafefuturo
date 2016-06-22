@@ -2,8 +2,8 @@
 
 É mais fácil ser o *expert* do passado que inferir no futuro. Como nos saímos ao 
 responder perguntas como **"por que você não fez?"**. Muitas vezes nos pegamos criticando algo, 
-mas sem qualquer ação. Estamos falando é sobre **intenção**. Quais ações, 
-quais proposições, qual a intervenção que podemos fazer sobre a futura crítica de algo do passado? 
+mas sem qualquer ação. Estamos falando sobre **intenção**. Quais ações, 
+quais proposições, qual a intervenção que podemos fazer sobre a futura crítica de algo que será passado? 
 
 Em um grupo, uma sociedade, uma organização sempre irão existir as diferenças e os conflitos. Dessas
 discussões saem ações que se transformarão em passado ou serão mero futuro que nunca virou presente.
@@ -23,6 +23,5 @@ Todos os temas em pauta do **Café Futuro** são propostos com um forte interess
 possibilidades de execução no Governo sejam as ideias subversivas ou não. Não estamos aqui
 adaptando o futuro ao Governo, mas intencionalmente criando a adaptabilidade do mesmo para o futuro. 
 
-A legião do Café Futuro começa agora!
-
+Comunidade Café Futuro.
 
