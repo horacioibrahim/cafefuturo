@@ -1,4 +1,4 @@
-# Café Futuro - A reflexão coletiva de um futuro em beta.
+# Café Futuro - A reflexão coletiva de um mundo em beta.
 
 É mais fácil ser o *expert* do passado que inferir no futuro. Como nos saímos ao 
 responder perguntas como **"por que você não fez?"**. Muitas vezes nos pegamos criticando algo, 
